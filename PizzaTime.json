@@ -1,15 +1,15 @@
 {
   "PizzaTime":
  [
-   {"PizzaName": "Greek Pizza", "PizzaToppings": "Feta, oregano, tomatoes, bell pepper, kalmata olives, red onion, extra virgin olive oil", "PizzaOrigin": "New England", "PizzaInformation": "Greek pizza's are heavy on the sauce rather than the cheese, utilizing flavors from greece"},
-   {"PizzaName": "Chicago style Pizza", "PizzaToppings": "Ground beef, sausage, pepperoni, onion, mushrooms, green peppers, cheese, pizza sauce", "PizzaOrigin": "Chicago", "PizzaInformation": "A pizza with high edges simliar to how a pie looks, but pizza instead"},
-   {"PizzaName": "Sicilian Pizza", "PizzaToppings": "Onions, anchovies, tomatoes, herbs and strong cheese such as caciocavallo and toma", "PizzaOrigin": "New York", "PizzaInformation": "A thick crusted rectangular pizza"},
-   {"PizzaName": "Neapolitan Pizza", "PizzaToppings": "Tomatoes, garlic, oregano, and extra virgin olive oil", "PizzaOrigin": "Nepales, Italy", "PizzaInformation": "The original pizza, the mother of all pizza's. Many variations of this classic pizza"},
-   {"PizzaName": "Hawaiian Pizza", "PizzaToppings": "Cheese, pizza sauce, cooked ham(canadian bacon), pineapple", "PizzaOrigin": "Ontario, Canada", "PizzaInformation": "Insipred by the chinese who enjoy mixing sweet and savory. Was named after the brand of pineapple Sam Panopoulos used"},
-   {"PizzaName": "Cheese Pizza", "PizzaToppings": "Classic - Pizza sauce, cheese", "PizzaOrigin": "Italy", "PizzaInformation": "A simple dish of just using cheese and pizza sauce"},
-   {"PizzaName": "Pepporoni Pizza", "PizzaToppings": "Classic - Pizza sauce, cheese, pepperoni", "PizzaOrigin": "Italy", "PizzaInformation": "Three simple ingredients, sauce, cheese and pepperoni"},
-   {"PizzaName": "Veggie Pizza", "PizzaToppings": "Cheese, pizza sauce, mushrooms, bell peppers, spinach, onion", "PizzaOrigin": "California", "PizzaInformation": "A dish that works well for vegetarians, since everyone should be able to enjoy pizza"},
-   {"PizzaName": "BBQ chicken Pizza", "PizzaToppings": "Cheese, bbq sauce, chicken, green peppers, onions", "PizzaOrigin": "California", "PizzaInformation": "Ed LaDou invented this style of pizza. Was a famous chef who had also worked with Wolfgang Puck"},
+   {"PizzaName": "Greek Pizza", "PizzaID":1, "PizzaToppings": "Feta, oregano, tomatoes, bell pepper, kalmata olives, red onion, extra virgin olive oil", "PizzaOrigin": "New England", "PizzaInformation": "Greek pizza's are heavy on the sauce rather than the cheese, utilizing flavors from greece"},
+   {"PizzaName": "Chicago style Pizza", "PizzaID":2, "PizzaToppings": "Ground beef, sausage, pepperoni, onion, mushrooms, green peppers, cheese, pizza sauce", "PizzaOrigin": "Chicago", "PizzaInformation": "A pizza with high edges simliar to how a pie looks, but pizza instead"},
+   {"PizzaName": "Sicilian Pizza", "PizzaID":3, "PizzaToppings": "Onions, anchovies, tomatoes, herbs and strong cheese such as caciocavallo and toma", "PizzaOrigin": "New York", "PizzaInformation": "A thick crusted rectangular pizza"},
+   {"PizzaName": "Neapolitan Pizza", "PizzaID":4, "PizzaToppings": "Tomatoes, garlic, oregano, and extra virgin olive oil", "PizzaOrigin": "Nepales, Italy", "PizzaInformation": "The original pizza, the mother of all pizza's. Many variations of this classic pizza"},
+   {"PizzaName": "Hawaiian Pizza", "PizzaID":5, "PizzaToppings": "Cheese, pizza sauce, cooked ham(canadian bacon), pineapple", "PizzaOrigin": "Ontario, Canada", "PizzaInformation": "Insipred by the chinese who enjoy mixing sweet and savory. Was named after the brand of pineapple Sam Panopoulos used"},
+   {"PizzaName": "Cheese Pizza", "PizzaID":6, "PizzaToppings": "Classic - Pizza sauce, cheese", "PizzaOrigin": "Italy", "PizzaInformation": "A simple dish of just using cheese and pizza sauce"},
+   {"PizzaName": "Pepporoni Pizza", "PizzaID":7, "PizzaToppings": "Classic - Pizza sauce, cheese, pepperoni", "PizzaOrigin": "Italy", "PizzaInformation": "Three simple ingredients, sauce, cheese and pepperoni"},
+   {"PizzaName": "Veggie Pizza", "PizzaID":8, "PizzaToppings": "Cheese, pizza sauce, mushrooms, bell peppers, spinach, onion", "PizzaOrigin": "California", "PizzaInformation": "A dish that works well for vegetarians, since everyone should be able to enjoy pizza"},
+   {"PizzaName": "BBQ chicken Pizza", "PizzaID":9, "PizzaToppings": "Cheese, bbq sauce, chicken, green peppers, onions", "PizzaOrigin": "California", "PizzaInformation": "Ed LaDou invented this style of pizza. Was a famous chef who had also worked with Wolfgang Puck"},
  
  
  ],
